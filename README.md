@@ -1,89 +1,119 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sonali+Lenka+👋;MCA+Student+%7C+Aspiring+Web+Developer;Frontend+%26+Backend+Learner;Learning+by+Building+Projects" />
+<h1 style="font-size:42px; font-weight:700; margin-bottom:8px;">
+  👋 Hi, I'm <span style="color:#0EA5E9;">Sonali Lenka</span>
+</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Sonali-2307&label=Profile%20Views&color=0ea5e9&style=flat" />
+<p style="font-size:18px; color:#64748B; margin-top:0;">
+  MCA Student • Web Developer • Frontend & Backend Learner
+</p>
+
+<p>
+  <a href="https://sonali-portfolio-eta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-🎓 MCA 2nd Year student at **GIFT Autonomous College**  
-💻 Aspiring **Web Developer**  
-🌱 Learning **Frontend & Backend Development**  
-📌 Academic Project: **Travel & Tourism Management System**  
-🏨 Built a **Hotel Management System**  
-🚀 Passionate about building **real-world web applications**
+## ✨ Quote
+
+<div align="center">
+
+> 💻 *"Think. Build. Debug. Learn. Repeat."*
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,xampp,mysql" />
-</p>
+🎓 **MCA Student** passionate about web development  
+💻 Building **dynamic, database-driven web applications**  
+🎨 Love modern UI/UX, animations & clean layouts  
+🛠 Strong interest in **PHP, MySQL, JavaScript & CSS**  
+🌱 Learning by working on **real-world projects**
 
 ---
 
-## 🚀 Projects
+## 🧠 Tech Stack
 
-### ✈️ Travel & Tourism Management System
-🌍 Web-based travel management platform  
-🏨 Hotel Management Module included  
-🔐 Admin & User dashboards  
-⚙️ **Tech:** HTML • CSS • JavaScript • PHP • MySQL  
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+### ⚙ Backend
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Projects
+
+### 🌍 Travel & Tourism Management System
+✔ Tour packages & destinations  
+✔ Booking & enquiry system  
+✔ Admin management panel  
+✔ Built using **PHP, MySQL, HTML, CSS & JavaScript**
+
+---
+
+### 🏨 Hotel Management System
+✔ Room booking & availability system  
+✔ User login & admin dashboard  
+✔ Booking records & customer management  
+✔ Backend powered by **PHP & MySQL**
+
+---
+
+### 🎨 Cultural E-Commerce Website *(Ongoing)*
+✔ Handloom & handicraft showcase  
+✔ Product listing, wishlist & cart  
+✔ Focus on **Indian culture & artisans**  
+✔ Modern UI with animations  
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Explore my work:**  
+👉 **https://sonali-portfolio-eta.vercel.app/**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sonali-2307&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sonali-2307&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Career Goals
-🚀 Become a **Professional Web Developer**  
-🧠 Strengthen **Backend & Database Skills**  
-📚 Learn **Advanced Web Technologies**  
-💼 Build **Industry-Level Applications**
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/Sonali-2307">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Replace # with your LinkedIn profile link -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <!-- Replace # with your resume Google Drive link -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=readme" />
-  </a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-✨ *Thank you for visiting my profile!* ✨  
-⭐ *Feel free to explore and star my repositories*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+⭐ *Thanks for visiting my profile!*  
+✨ *Always learning & building.*
 
 </div>
