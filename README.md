@@ -1,119 +1,129 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<h1 style="font-size:42px; font-weight:700; margin-bottom:8px;">
-  👋 Hi, I'm <span style="color:#0EA5E9;">Sonali Lenka</span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=180&section=header&text=Sonali%20Lenka&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p style="font-size:18px; color:#64748B; margin-top:0;">
-  MCA Student • Web Developer • Frontend & Backend Learner
-</p>
+<h2>🚀 Web Developer | MCA Student | Creative UI Designer</h2>
 
 <p>
-  <a href="https://sonali-portfolio-eta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  💡 Passionate about building modern, dynamic & user-friendly web apps
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
+<a href="https://sonali-portfolio-eta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0EA5E9?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## ✨ Quote
+## 🧑‍💻 About Me
+
+✨ MCA Student exploring **Full Stack Development**  
+💻 Love building **real-world web applications**  
+🎨 Interested in **UI/UX, animations & clean design**  
+⚡ Focused on **PHP, MySQL & JavaScript**  
+🌱 Currently learning **advanced frontend & backend integration**
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-> 💻 *"Think. Build. Debug. Learn. Repeat."*
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+
+### ⚙ Backend
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-🎓 **MCA Student** passionate about web development  
-💻 Building **dynamic, database-driven web applications**  
-🎨 Love modern UI/UX, animations & clean layouts  
-🛠 Strong interest in **PHP, MySQL, JavaScript & CSS**  
-🌱 Learning by working on **real-world projects**
-
----
-
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-### ⚙ Backend
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
-## 📌 Projects
+## 🚀 Projects
 
 ### 🌍 Travel & Tourism Management System
-✔ Tour packages & destinations  
-✔ Booking & enquiry system  
-✔ Admin management panel  
-✔ Built using **PHP, MySQL, HTML, CSS & JavaScript**
+🔹 Tour packages & destinations  
+🔹 Booking & enquiry system  
+🔹 Admin panel  
+💡 Tech: `PHP | MySQL | JS | CSS`
 
 ---
 
 ### 🏨 Hotel Management System
-✔ Room booking & availability system  
-✔ User login & admin dashboard  
-✔ Booking records & customer management  
-✔ Backend powered by **PHP & MySQL**
+🔹 Room booking & availability  
+🔹 User login & admin dashboard  
+🔹 Customer & booking management  
+💡 Tech: `PHP | MySQL`
 
 ---
 
 ### 🎨 Cultural E-Commerce Website *(Ongoing)*
-✔ Handloom & handicraft showcase  
-✔ Product listing, wishlist & cart  
-✔ Focus on **Indian culture & artisans**  
-✔ Modern UI with animations  
+🔹 Handicraft & handloom products  
+🔹 Cart, wishlist & product system  
+🔹 Focus on Indian artisans  
+💡 Tech: `Full Stack`
 
 ---
 
-## 🌐 Portfolio
+## 📊 GitHub Stats
 
-🔗 **Explore my work:**  
-👉 **https://sonali-portfolio-eta.vercel.app/**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sonali-2307&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonali-2307&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali-2307&theme=tokyo-night"/>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
+
+<a href="https://github.com/Sonali-2307">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
+<a href="https://www.linkedin.com/in/
+sonalilenka23
+">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
+<a href="mailto:sonalilenka709@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
+
+</div>
+
+---
+
+## 💬 Developer Quote
+
+<div align="center">
+
+> 🚀 *"Code. Create. Break. Fix. Repeat until perfect."*
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:0EA5E9&height=120&section=footer"/>
 
-⭐ *Thanks for visiting my profile!*  
-✨ *Always learning & building.*
+⭐ **Thanks for visiting!**  
+💙 *Keep Learning. Keep Building.*
 
 </div>
